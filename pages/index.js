@@ -26,7 +26,7 @@ export default function Home() {
             <Col>
               <h1>Bring Back Ed.</h1>
               <p className="lead">
-                A simple website dedicated to bringing back everyone's favorite
+                A simple website dedicated to bringing back everyone&apos;s favorite
                 bowling alley lawyer, Ed.
               </p>
             </Col>
