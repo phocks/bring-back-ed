@@ -33,6 +33,7 @@ export default function Home() {
                 A simple website dedicated to bringing back everyone&apos;s
                 favorite bowling alley lawyer, Ed.
               </p>
+              <p>Under construction. More coming soon...</p>
             </Col>
             <Col>
               <video
